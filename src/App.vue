@@ -84,7 +84,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url('./dist/assets/background.png');
+  background-image: url('/assets/background.png');
 }
 
 .container {
